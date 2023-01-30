@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+
+}
+body {
+    margin:50px;
+    font-size:17px;
+}
+h1 {
+    font-family:'Montserrat';
+}
+p {
+    color:blue;
+    font-size:20px;
+    font-family:'Explora';
+    text-align:left;
+    line-height: 20px;
+    text-shadow:0px 2px 3px purple ;
+   
+}
